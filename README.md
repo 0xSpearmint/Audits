@@ -13,6 +13,21 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 |----------|----------|----------|---------|
 |[Fraxlend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| [Writeup](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)|
 
+### Private reviews
+|Date| Protocol     | Category| Scope | Report |
+|----------------|----------------|------------------------------------------------|----------|----------|
+|02/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Pool Manager (Uniswap v4 hook) | Private |
+|05/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Market Manager| Private |
+|05/2025| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending Markets on HyperEVM |Isolated lending market contracts| [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-hyperdrive-markets.pdf) |
+|05/2025| [Pump Science](https://x.com/pumpdotscience) | Token launchpad on Solana | Meteora DAMM v2 integration | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-pump-science.pdf)
+|06/2025| [Agora](https://x.com/withAUSD) | Stablecoin infrastructure on Solana | Interest-bearing wrapped stablecoins | Private 
+|07/2025| [LiquidLoot](https://x.com/LootLiquid) | NFT Marketplace and borrowing platform on HyperEVM | NFT-collateralised borrowing and lending | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-LiquidLoot-Lending-Obsidian-Audit.pdf)
+|07/2025| [Oku Trade](https://x.com/okutrade) | Advanced trading platform on EVM chains | Custom order types: limit, stop-limit, and bracket orders | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-Oku-Obsidian-Audit.pdf)
+|07/2025|[Size Credit](https://x.com/SizeCredit) | Fixed-rate lending platform | Meta-vault and strategies | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-size-credit.pdf)
+|08/2025| [BAE Protocol](https://x.com/BAE_Protocol) | NFT Lending Platform | Gondi V3 Fork | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-07-bae-nft-lending.pdf)
+|10/2025| [Panoptic v2](https://x.com/Panoptic_xyz) | Decentralized Options protocol | v2 upgrade | Report pending
+
+
 
 ### Competitive Audits
 
