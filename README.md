@@ -7,6 +7,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 - Reached #15 on Cantina's all time leaderboard
 - Reached #6 on Sherlock's leaderboard
 - Lead senior watson at [Sherlock](https://sherlock.xyz/)
+- Reported a live high severity vulnerability in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
 
 ### Bug Bounties
 | Protocol | Category | Severity | Writeup |
