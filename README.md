@@ -37,7 +37,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 |04/2026| [Bounce Tech](https://x.com/BounceTech) | Leveraged token protocol on HyperEVM | Update to support leveraged tokens for HIP-3 perps | [Report](https://github.com/ObsidianAudits/audits/blob/main/bounce-tech/2026-04-bounce-tech.pdf)
 |04/2026| [Tenor Finance](https://x.com/TenorFinance) |Non-custodial borrowing and lending platform built on Morpho| Core protocol contracts | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-04-tenor.pdf)
 |05/2026| [Panoptic v2](https://x.com/Panoptic_xyz) | Decentralized Options protocol | Update to RiskEngine contracts + new Guardian and Builder contracts | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-05-panoptic-v2.pdf)
-|06/2026| [Tenor Finance](https://x.com/TenorFinance) |Non-custodial borrowing and lending platform built on Morpho| Diff review of updates since the previous audit | Private |
+|06/2026| [Tenor Finance](https://x.com/TenorFinance) |Non-custodial borrowing and lending platform built on Morpho| Diff review of updates since the previous audit | [Report](https://github.com/ObsidianAudits/audits/blob/main/2026-06-tenor.pdf) |
 
 
 
