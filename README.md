@@ -1,13 +1,14 @@
 ### About Me
-Securing smart contracts at [Obsidian Audits](https://obsidianaudits.com)
+Lead Security Researcher at [Guardian Audits](https://guardianaudits.com)
 
-For private audits or security consulting, reach out to me on Twitter [@0xSpearmint](https://x.com/0xSpearmint) or Telegram [@spearmintSR](https://t.me/spearmintSR).
+For audits or security consulting, reach out to me on Twitter [@0xSpearmint](https://x.com/0xSpearmint) or Telegram [@spearmintSR](https://t.me/spearmintSR).
 
 ### Highlights
-- Reached #15 on Cantina's all time leaderboard
-- Reached #6 on Sherlock's leaderboard
+- Co-founded [Obsidian Audits](https://obsidianaudits.com) and led 30+ audits for leading DeFi teams including Panoptic, Valantis, Agora Finance and Tenor Finance
+- Placed top-3 in 10+ audit competitions, including #1 for Wormhole, Pump.fun, Yearn Finance, DeBank and 3Jane
+- Reached #6 on Sherlock's and #15 on Cantina's all-time leaderboards
 - Lead senior watson at [Sherlock](https://sherlock.xyz/)
-- Reported a live high severity vulnerability in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
+- Reported a live high-severity vulnerability in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU), earning a $10k bounty
 
 ### Bug Bounties
 | Protocol | Category | Severity | Writeup |
